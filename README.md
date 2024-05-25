@@ -1,4 +1,4 @@
 # Helby Studio
-## The Mobile App Studio that helps parents
+<center><h2>The mobile app studio that helps parents</h2></center> 
 
-A new mobile app is coming soon, stay tuned...
+<center>A new mobile app is coming soon. Stay tuned...</center>
